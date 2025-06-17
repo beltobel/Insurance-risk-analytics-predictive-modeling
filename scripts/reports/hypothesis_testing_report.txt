@@ -1,0 +1,4 @@
+Hypothesis Testing Results:
+Province Risk: p=0.0000, Reject H0. Gauteng has highest claim frequency (0.34%).
+PostalCode Risk: p=0.0335, Reject H0. PostalCode 4680 has highest severity (260,088 Rand).
+Gender Risk: p=0.9515, Fail to reject H0.
